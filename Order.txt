@@ -1,0 +1,23 @@
+Vaishnavi Mande's Ordering System
+Car
+	Model:		wibtnbi
+	Color:		vqeruvn
+	Cost:		$1.98
+	MPG/GPH:	20.7
+	Type:		Sedan
+	Towing:		Towing package
+Truck
+	Model:		vfvfav
+	Color:		avv
+	Cost:		$1.88
+	MPG/GPH:	49.6
+	Load:		Half-ton
+	Engine:		Really big
+Truck
+	Model:		verie
+	Color:		rewre
+	Cost:		$2.00
+	MPG/GPH:	49.6
+	Load:		Half-ton
+	Engine:		Really big
+Thank you for using Vaishnavi Mande's ordering system
